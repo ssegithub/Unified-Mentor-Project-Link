@@ -10,12 +10,9 @@ Features:
 - Contact form with basic validation
 
 Navigation Guide:
-- Home: Welcome message and intro
 - About: My skills and interests
 - Projects: Visual showcase of my work
 - Contact: Form to reach out
-
-
 
 
 
